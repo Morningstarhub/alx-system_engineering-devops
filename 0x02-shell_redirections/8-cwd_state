@@ -1,2 +1,2 @@
 #!/bib/bash
--la > is_cwd_content
+ls -la > is_cwd_content
