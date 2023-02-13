@@ -1,0 +1,2 @@
+#!/bib/bash
+-la > is_cwd_content
