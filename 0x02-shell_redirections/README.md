@@ -1,1 +1,1 @@
-writs into a file
+script that writs into a file
