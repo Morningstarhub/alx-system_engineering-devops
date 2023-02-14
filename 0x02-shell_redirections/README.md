@@ -1,1 +1,1 @@
-duplicates the last line of a file
+scripts that dupicates last line of a file
