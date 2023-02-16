@@ -1,1 +1,1 @@
-takes a list of words as inputs and print words that appear exactly once
+displays lines in file that don't contain pattern
